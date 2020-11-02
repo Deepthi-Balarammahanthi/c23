@@ -18,7 +18,7 @@ display()
    
     
     rectMode(CENTER)
-    rect(0,0,this.w,this.h)
+    rect(200,390,this.w,this.h)
    
 
 }
